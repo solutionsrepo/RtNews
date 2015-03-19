@@ -1,0 +1,3 @@
+[submodule "realm"]
+    path = realm
+    url = git@github.com:solutionsrepo/realm_ios_bin_static.git
